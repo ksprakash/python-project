@@ -33,3 +33,11 @@ message_description='Finished'
 #This is a way to format strings
 print(f'{message}')
 print( '%s is %s' % (message,message_description))
+
+#Working with string concate and slicing
+print(message[:])
+print(message[0:])
+print(message[:8])
+print(message[2:8]) 
+print(message[:-2]) 
+print(message[-2:])
