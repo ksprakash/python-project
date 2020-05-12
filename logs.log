@@ -1,0 +1,6 @@
+1589251798.049728: logger.py:__init__:INFO:Created EmployeePrakash,kokkiligadda-Prakash.kokkiligadda@gmail.com
+1589251798.049728: logger.py:__init__:INFO:Created EmployeeRavi,Kokkiligadda-Ravi.Kokkiligadda@gmail.com
+1589251852.015020: logger.py:__init__:INFO:Created Employee: Prakash,kokkiligadda-Prakash.kokkiligadda@gmail.com
+1589251852.015020: logger.py:__init__:INFO:Created Employee: Ravi,Kokkiligadda-Ravi.Kokkiligadda@gmail.com
+1589251880.858594: logger.py:__init__:INFO:Created Employee: Prakash,kokkiligadda:Prakash.kokkiligadda@gmail.com
+1589251880.858594: logger.py:__init__:INFO:Created Employee: Ravi,Kokkiligadda:Ravi.Kokkiligadda@gmail.com

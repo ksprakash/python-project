@@ -1,0 +1,2 @@
+1589253332.407223: advancedlogg.py:__init__:INFO:Created Employee: Prakash,kokkiligadda:Prakash.kokkiligadda@gmail.com
+1589253332.407223: advancedlogg.py:__init__:INFO:Created Employee: Ravi,Kokkiligadda:Ravi.Kokkiligadda@gmail.com
